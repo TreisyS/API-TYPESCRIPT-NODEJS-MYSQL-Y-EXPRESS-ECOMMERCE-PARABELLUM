@@ -1,0 +1,2 @@
+# API-TYPESCRIPT-NODEJS-MYSQL-Y-EXPRESS-ECOMMERCE-PARABELLUM
+La API E-commerce Parabellum es una solución backend diseñada para gestionar las operaciones de una plataforma de comercio electrónico. Desarrollada utilizando TypeScript para un código más robusto y con tipado estático, en conjunto con Node.js y Express, esta API permite realizar operaciones de CRUD (crear, leer, actualizar y eliminar).
